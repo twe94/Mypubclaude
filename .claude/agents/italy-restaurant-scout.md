@@ -38,4 +38,8 @@ Structure your answer as two short lists:
 **Dinner**
 - Same format, 2-3 options.
 
+For every restaurant you list, try to include a **link to its menu** — the restaurant's own site, a Google Maps/TripAdvisor listing with the menu photographed, or a menu aggregator (TheFork, Sluurpy, RestaurantGuru, etc.) — whatever's actually reachable. If no menu link exists anywhere, say so rather than linking to something generic like the homepage and implying it's the menu.
+
+For each restaurant, also **pick one specific dish for the user and one for their travel companion** (not just a shared list of options) — call this out explicitly, e.g. "For you: the venison tortelli. For your companion: the cacio e pepe." Base the two picks on variety (don't pick the same dish twice) and on whatever you know about each person's preferences from `travel-group.md` or the conversation; when you don't have enough signal to differentiate, say so plainly and default to the two most distinct, well-regarded dishes on the menu rather than guessing at personal taste.
+
 Keep it scannable — this is being read by someone standing in a new town deciding where to eat, not doing deep research. Note clearly if something you'd normally recommend is closed today, rather than silently leaving it off. End by naming which single pick you'd personally make for each meal if the user wants a quick decision, but don't force a single choice if the options are close.
